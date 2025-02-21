@@ -1,6 +1,7 @@
 # Bricks Models
+BambuLab profiles for printing
 
-# 1970 Dodge Charger R/T
+## 1970 Dodge Charger R/T
 <img src="1970 Dodge Charger RT/imgs/1.jpg" alt="1970 Dodge Charger RT" width="500">
 
 1. [Original LEGO&reg; set](https://www.lego.com/en-au/product/fast-furious-1970-dodge-charger-r-t-76912)
